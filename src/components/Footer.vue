@@ -9,7 +9,7 @@
       color="primary"
     >
       <v-card-text>
-        &copy;2019 a-tak.com  ver. <span id="ver">{{ version_ }}</span>
+        TaskClear ver.<span id="ver">{{ version_ }}</span>
       </v-card-text>
     </v-card>
   </v-footer>
