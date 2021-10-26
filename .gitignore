@@ -20,5 +20,5 @@ yarn-error.log*
 *.sw?
 .firebase/hosting.*.cache
 postCreateCommand.sh
-./.env.development
-./.env.production
+.env.development
+.env.production
